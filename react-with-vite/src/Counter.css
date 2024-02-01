@@ -1,0 +1,22 @@
+.counter_container {
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.counter_container button {
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.counter_container span{
+    font-size: larger;
+    margin: 20px;
+}
