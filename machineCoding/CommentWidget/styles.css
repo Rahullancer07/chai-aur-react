@@ -1,0 +1,15 @@
+.comment {
+    margin-left: 20px;
+    border-left: 2px solid #ccc;
+    padding: 10px;
+}
+
+.reply-form {
+    display: none;
+    margin-left: 40px;
+}
+
+.comment-textarea {
+    width: 100%;
+    margin-bottom: 5px;
+}
