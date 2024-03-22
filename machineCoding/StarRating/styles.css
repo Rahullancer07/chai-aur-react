@@ -1,0 +1,22 @@
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.star {
+    font-size: 40px;
+    color: gray;
+}
+
+#ratingCount {
+    font-size: 20px;
+    margin-top: 10px;
+}
